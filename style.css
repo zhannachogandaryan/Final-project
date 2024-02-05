@@ -1,0 +1,28 @@
+
+
+h1 { color: rgb(44, 44, 82);
+
+}
+
+ header, footer 
+ 
+ { background-color: #d5d5e3;
+    
+font-weight: bold;
+
+font-style: italic;
+
+display: block;}
+
+
+
+section {color: #494976;}
+
+section larg-text { color: #8989b2;
+
+}
+
+#section {
+    border: #8989b2;
+    margin: auto;
+}
